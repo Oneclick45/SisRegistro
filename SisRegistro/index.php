@@ -5,6 +5,12 @@
         <title>Base de Datos</title>
     </head>
     <body>
+    <ul>
+    
+        <li><h1>Primer Registro</h1></li>
+        <li><h1>Segundo Registro</h1></li>
+    </ul>
+       
         <?php
         // put your code here
         ?>

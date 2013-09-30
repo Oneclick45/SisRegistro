@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Base de Datos</title>
+        <title>UNA-Puno</title>
     </head>
     <body>
     <ul>
